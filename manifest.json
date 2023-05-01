@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "VUB EZproxy",
+  "name": "VUB EZproxy Redirect",
   "version": "1.0",
   "description": "Automatically redirects to VUB EZproxy",
   "permissions": ["activeTab"],
