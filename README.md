@@ -27,4 +27,4 @@ Note 2: I got help from ChatGPT in creating this extension.
 5. Log in with your VUB library account credentials.
 6. You will be automatically redirected to the original academic resource with full-text access.
 
-With VUB EZProxy Redirect, you can easily access the full-text content of academic articles and databases from anywhere in the world, without having to manually log in to the VUB library website.
+With VUB EZProxy Redirect, you can easily access the full-text content of academic articles and databases from anywhere in the world, without having to manually go to the VUB library website or typing myezproxy.
