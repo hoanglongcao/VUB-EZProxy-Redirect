@@ -5,6 +5,8 @@ Note 1: The VUB EZProxy Redirect extension only redirects to the VUB Exproxy web
 
 Note 2: I got help from ChatGPT in creating this extension.
 
+![VUB EZProxy Redirect Demo](demo.png "VUB EZProxy Redirect Demo")
+
 
 # Installation Instructions
 
