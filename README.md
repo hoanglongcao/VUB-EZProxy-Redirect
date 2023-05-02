@@ -1,5 +1,5 @@
 # VUB-EZProxy-Redirect
-The VUB-EZProxy-Redirect automatically redirects academic links to the VUB library's MyEZProxy login page, providing easy access to subscribed academic journals and databases from anywhere. Ideal for VUB students, researchers, and faculty members who need off-campus access to academic resources.
+The VUB-EZProxy-Redirect automatically redirects academic links to the VUB library's MyEZProxy login page, providing easy access to subscribed academic journals and databases from anywhere without having to manually go to the VUB library website or typing myezproxy.
 
 The instructions from [VUB's remote access](https://biblio.vub.ac.be/vlink/HELP/vlinkezproxy_en.htm) were used to make this extension.
 
@@ -22,11 +22,8 @@ Note 2: I got help from ChatGPT in creating this extension.
 
 # Usage Instructions
 
-1. Open a new tab in Microsoft Edge or Google Chrome.
-2. Navigate to an academic article or database that requires a VUB library subscription.
-3. Click on the VUB EZProxy Redirect extension icon on the browser's toolbar.
-4. The current URL of the active tab will be redirected to the VUB library's MyEZProxy login page with the appropriate login credentials.
-5. Log in with your VUB library account credentials.
-6. You will be automatically redirected to the original academic resource with full-text access.
-
-With VUB EZProxy Redirect, you can easily access the full-text content of academic articles and databases from anywhere in the world, without having to manually go to the VUB library website or typing myezproxy.
+1. Navigate to an academic article or database that requires a VUB library subscription.
+2. Click on the VUB EZProxy Redirect extension icon on the browser's toolbar.
+3. The current URL of the active tab will be redirected to the VUB library's MyEZProxy login page with the appropriate login credentials.
+4. Log in with your VUB library account credentials.
+5. You will be automatically redirected to the original academic resource with full-text access.
