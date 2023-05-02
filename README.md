@@ -1,7 +1,5 @@
 # VUB-EZProxy-Redirect
-The VUB-EZProxy-Redirect automatically redirects academic links to the VUB library's MyEZProxy login page, providing easy access to subscribed academic journals and databases from anywhere without having to manually go to the VUB library website or typing myezproxy.
-
-The instructions from [VUB's remote access](https://biblio.vub.ac.be/vlink/HELP/vlinkezproxy_en.htm) were used to make this extension.
+The VUB-EZProxy-Redirect automatically redirects academic links to the [VUB library's MyEZProxy login page](https://myezproxy.vub.ac.be), providing easy access to subscribed academic journals and databases from anywhere, without having to manually go to the VUB library website or typing myezproxy in the address bar.
 
 
 ![VUB EZProxy Redirect Demo](demo.png "VUB EZProxy Redirect Demo")
@@ -27,5 +25,6 @@ The instructions from [VUB's remote access](https://biblio.vub.ac.be/vlink/HELP/
 
 # Notes
 
-1. The VUB EZProxy Redirect extension only redirects to the VUB Exproxy website and does not store personal data. 
-2. I got help from ChatGPT in creating this extension.
+1. The instructions from [VUB's remote access](https://biblio.vub.ac.be/vlink/HELP/vlinkezproxy_en.htm) were used to make this extension.
+2. The VUB EZProxy Redirect extension only redirects to the VUB Exproxy website and does not store personal data. 
+3. I got help from ChatGPT in creating this extension.
